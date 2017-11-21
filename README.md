@@ -16,7 +16,7 @@ Here are some of results. The algorithm is able to segment between road and not 
 ![](images/um_000003.png)
 ![](images/um_000008.png)
 ![](images/um_000013.png)
-![](images/um_000084.png)
+![](images/umm_000084.png)
 
 ### Setup
 ##### Frameworks and Packages
