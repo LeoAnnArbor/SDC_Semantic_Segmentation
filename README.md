@@ -11,7 +11,7 @@ The entire network including any updates to the vgg component on the [Kitti Road
 
 
 ### Results
-Here are some of results. The algorithm is able to segment between road and not road for msot of the part in an image
+Here are some of results. The algorithm is able to segment between road and not road for most of the part in an image
 
 ![](images/um_000003.png)
 ![](images/um_000008.png)
